@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TaxiMaximPractice.Benchmarks/TaxiMaximPractice.Benchmarks.csproj" Id="7b5f0cf6-1084-4ef7-9518-a64402374064" />
+  <Project Path="TaxiMaximPractice.Core/TaxiMaximPractice.Core.csproj" Id="c39bbe78-59ef-49b8-8136-ec6d2ec00726" />
+  <Project Path="TaxiMaximPractice.Tests/TaxiMaximPractice.Tests.csproj" Id="0a1cf07f-f779-4b55-95d3-92ba2a8f77fb" />
+</Solution>
