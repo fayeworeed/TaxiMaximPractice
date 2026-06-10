@@ -6,7 +6,7 @@ BenchmarkRunner.Run<SearchBenchmark>();
 
 public class SearchBenchmark
 {
-    private List<Driver> drivers;
+    private List<Driver> drivers = null!;
 
     private readonly INearestDriverSearch linq =
         new LinqSearch();
@@ -17,7 +17,8 @@ public class SearchBenchmark
     private readonly INearestDriverSearch partial =
         new PartialSearch();
 
-    public SearchBenchmark()
+    [GlobalSetup]
+    public void Setup()
     {
         drivers = DriverGenerator.Generate(
             10000,
