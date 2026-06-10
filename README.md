@@ -96,14 +96,14 @@
 
 Ниже представлены результаты измерения производительности алгоритмов.
 
-![benchmark](benchmark1.png)
-![benchmark](benchmark2.png)
-![benchmark](benchmark3.png)
+![benchmark](Screenshots/benchmark1.png)
+![benchmark](Screenshots/benchmark2.png)
+![benchmark](Screenshots/benchmark3.png)
 
 ---
 
 ## Результаты тестирования (NUnit)
 
-![benchmark](NUnit1.png)
-![benchmark](NUnit2.png)
-![benchmark](NUnit3.png)
+![benchmark](Screenshots/NUnit1.png)
+![benchmark](Screenshots/NUnit2.png)
+![benchmark](Screenshots/NUnit3.png)
